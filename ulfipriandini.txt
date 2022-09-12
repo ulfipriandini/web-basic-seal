@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Andin</title>
+</head>
+<body>
+  <center> <h1>Praktik HTML SIB SEAL- AWS Batch 3</h1> </center>
+  <h1>Ulfi Priandini</h1>
+  <img alt="" src="Andin.jpg" height="300" />
+   <h2>About Me</h2>
+  <p>&emsp;Engaged in the world of communication with more than 2 years of experience in conveying informative
+information, succeeded in improving, maintaining and maintaining public relations with companies. Become a
+representative of the organization to be able to communicate effectively with the public.</p>
+
+  <h2>Top Skill</h2>
+  <p>● Communication</p>
+  <p>● Build Relationships</p>
+  <p>● Crisis Communication</p>
+  <p>● Time Management</p> 
+
+  <h2>Education</h2>
+  <p>● Muhammadiyah Private High School 1 Weleri | OfficeManagement Automation &nbsp;&nbsp; &emsp;&emsp;2017 – 2020</p>
+  <p>● Wahid Hasyim University | International Relations &nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020 – now</p>
+
+  <h2>Social Media</h2>
+  <p><img alt="" src="logo instagram.jfif" height="20" /> &nbsp; @ulfipriandini</p> 	
+</body>
+</html>
